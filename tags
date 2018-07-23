@@ -1,6 +1,11 @@
 !_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+arrayToList	/home/justin/eloquentJavascript/4-3.js	/^const arrayToList = function arrayToList(arr) {$/;"	f	language:JavaScript
 const	/home/justin/eloquentJavascript/4-1.js	/^const assert = require('assert');$/;"	f	language:JavaScript
 const	/home/justin/eloquentJavascript/4-2.js	/^const assert = require('assert');$/;"	f	language:JavaScript
+const	/home/justin/eloquentJavascript/4-3.js	/^const assert = require('assert');$/;"	f	language:JavaScript
+listToArray	/home/justin/eloquentJavascript/4-3.js	/^const listToArray = function listToArray(list) {$/;"	f	language:JavaScript
+nth	/home/justin/eloquentJavascript/4-3.js	/^const nth = function nth(list, n) {$/;"	f	language:JavaScript
+prepend	/home/justin/eloquentJavascript/4-3.js	/^const prepend = function prepend(element, list) {$/;"	f	language:JavaScript
 range	/home/justin/eloquentJavascript/4-1.js	/^const range = function range(start, end, step=(start > end ? -1 : 1)) {$/;"	f	language:JavaScript
 reverseArray	/home/justin/eloquentJavascript/4-2.js	/^const reverseArray = function reverseArray(arr) {$/;"	f	language:JavaScript
 reverseArrayInPlace	/home/justin/eloquentJavascript/4-2.js	/^const reverseArrayInPlace = function reverseArrayInPlace(arr) {$/;"	f	language:JavaScript
