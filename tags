@@ -1,0 +1,7 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+const	/home/justin/eloquentJavascript/4-1.js	/^const assert = require('assert');$/;"	f	language:JavaScript
+const	/home/justin/eloquentJavascript/4-2.js	/^const assert = require('assert');$/;"	f	language:JavaScript
+range	/home/justin/eloquentJavascript/4-1.js	/^const range = function range(start, end, step=(start > end ? -1 : 1)) {$/;"	f	language:JavaScript
+reverseArray	/home/justin/eloquentJavascript/4-2.js	/^const reverseArray = function reverseArray(arr) {$/;"	f	language:JavaScript
+reverseArrayInPlace	/home/justin/eloquentJavascript/4-2.js	/^const reverseArrayInPlace = function reverseArrayInPlace(arr) {$/;"	f	language:JavaScript
+sum	/home/justin/eloquentJavascript/4-1.js	/^const sum = function sum(arr) {$/;"	f	language:JavaScript
