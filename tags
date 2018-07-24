@@ -1,9 +1,13 @@
 !_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+characterScript	/home/justin/eloquentJavascript/5-4.js	/^const characterScript = function characterScript(code) {$/;"	f	language:JavaScript
 const	/home/justin/eloquentJavascript/4-4.js	/^const assert = require('assert');$/;"	f	language:JavaScript
 const	/home/justin/eloquentJavascript/5-1.js	/^const assert = require('assert');$/;"	f	language:JavaScript
 const	/home/justin/eloquentJavascript/5-2.js	/^const loop = function loop(startVal, predicate, update, body) {$/;"	f	language:JavaScript
 const	/home/justin/eloquentJavascript/5-3.js	/^const assert = require('assert');$/;"	f	language:JavaScript
+const	/home/justin/eloquentJavascript/5-4.js	/^const SCRIPTS = require('.\/scripts');$/;"	f	language:JavaScript
+countBy	/home/justin/eloquentJavascript/5-4.js	/^const countBy = function countBy(items, groupName) {$/;"	f	language:JavaScript
 deepEqual	/home/justin/eloquentJavascript/4-4.js	/^const deepEqual = function deepEqual(a, b) {$/;"	f	language:JavaScript
+dominantDirection	/home/justin/eloquentJavascript/5-4.js	/^const dominantDirection = function dominantDirection(text) {$/;"	f	language:JavaScript
 every	/home/justin/eloquentJavascript/5-3.js	/^const every = function every(array, test) {$/;"	f	language:JavaScript
 every2	/home/justin/eloquentJavascript/5-3.js	/^const every2 = function every2(array, test) {$/;"	f	language:JavaScript
 flatten	/home/justin/eloquentJavascript/5-1.js	/^const flatten = function flatten(arrOfArrs) {$/;"	f	language:JavaScript
