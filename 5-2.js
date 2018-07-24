@@ -1,5 +1,3 @@
-const assert = require('assert');
-
 const loop = function loop(startVal, predicate, update, body) {
   let val = startVal;
   while (predicate(val)) {
