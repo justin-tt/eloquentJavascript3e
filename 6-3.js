@@ -36,15 +36,15 @@ class Group {
 class GroupIterator {
   constructor(group) {
     this.group = group;
-    this.generatorIndex = 0;
+    this.iterableIndex = 0;
   }
 
   next() {
     // make it an iterable
-    if (this.generatorIndex == this.group._elements.length) return {done: true};
+    if (this.iterableIndex == this.group._elements.length) return {done: true};
 
-    let value = this.group._elements[this.generatorIndex];
-    this.generatorIndex++;
+    let value = this.group._elements[this.iterableIndex];
+    this.iterableIndex++;
     return {value, done: false};
   }
 }
