@@ -13,6 +13,9 @@ every2	/home/justin/eloquentJavascript/5-3.js	/^const every2 = function every2(a
 flatten	/home/justin/eloquentJavascript/5-1.js	/^const flatten = function flatten(arrOfArrs) {$/;"	f	language:JavaScript
 Group	/home/justin/eloquentJavascript/6-3.js	/^}$/;"	c	language:JavaScript
 Group	/home/justin/eloquentJavascript/6-3.js	/^}$/;"	f	language:JavaScript
+hasOwnProperty	/home/justin/eloquentJavascript/6-4.js	/^let map = {one: true, two: true, hasOwnProperty: true};$/;"	p	language:JavaScript	class:let
 here	/home/justin/eloquentJavascript/4-4.js	/^let obj = {here: {is: "an"}, object: 2};$/;"	p	language:JavaScript	class:let
 loop	/home/justin/eloquentJavascript/5-2.js	/^const loop = function loop(startVal, predicate, update, body) {$/;"	f	language:JavaScript
 notTest	/home/justin/eloquentJavascript/5-3.js	/^  const notTest = function notTest(item) {$/;"	f	language:JavaScript
+one	/home/justin/eloquentJavascript/6-4.js	/^let map = {one: true, two: true, hasOwnProperty: true};$/;"	p	language:JavaScript	class:let
+two	/home/justin/eloquentJavascript/6-4.js	/^let map = {one: true, two: true, hasOwnProperty: true};$/;"	p	language:JavaScript	class:let
