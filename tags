@@ -1,4 +1,5 @@
 !_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+add	/home/justin/eloquentJavascript/7-3.js	/^    const add = function add(item) {$/;"	f	language:JavaScript
 addEdge	/home/justin/eloquentJavascript/7-1.js	/^  function addEdge(from, to) {$/;"	f	language:JavaScript	function:function
 addEdge	/home/justin/eloquentJavascript/7-2.js	/^  function addEdge(from, to) {$/;"	f	language:JavaScript	function:function
 betterRobot	/home/justin/eloquentJavascript/7-2.js	/^function betterRobot({place, parcels}, route) {$/;"	f	language:JavaScript
@@ -8,6 +9,7 @@ compareRobots	/home/justin/eloquentJavascript/7-1.js	/^function compareRobots(ro
 compareRobots	/home/justin/eloquentJavascript/7-2.js	/^function compareRobots(robot1, memory1, robot2, memory2) {$/;"	f	language:JavaScript
 const	/home/justin/eloquentJavascript/7-1.js	/^}$/;"	f	language:JavaScript
 const	/home/justin/eloquentJavascript/7-2.js	/^}$/;"	f	language:JavaScript
+const	/home/justin/eloquentJavascript/7-3.js	/^    let e = new PGroup();$/;"	f	language:JavaScript
 findRoute	/home/justin/eloquentJavascript/7-1.js	/^function findRoute(graph, from, to) {$/;"	f	language:JavaScript
 findRoute	/home/justin/eloquentJavascript/7-2.js	/^function findRoute(graph, from, to) {$/;"	f	language:JavaScript
 goalOrientedRobot	/home/justin/eloquentJavascript/7-1.js	/^function goalOrientedRobot({place, parcels}, route) {$/;"	f	language:JavaScript
