@@ -14,6 +14,7 @@ findRoute	/home/justin/eloquentJavascript/7-1.js	/^function findRoute(graph, fro
 findRoute	/home/justin/eloquentJavascript/7-2.js	/^function findRoute(graph, from, to) {$/;"	f	language:JavaScript
 goalOrientedRobot	/home/justin/eloquentJavascript/7-1.js	/^function goalOrientedRobot({place, parcels}, route) {$/;"	f	language:JavaScript
 goalOrientedRobot	/home/justin/eloquentJavascript/7-2.js	/^function goalOrientedRobot({place, parcels}, route) {$/;"	f	language:JavaScript
+locked	/home/justin/eloquentJavascript/8-2.js	/^const box = {$/;"	p	language:JavaScript	class:const
 primitiveMultiply	/home/justin/eloquentJavascript/8-1.js	/^function primitiveMultiply(a, b) {$/;"	f	language:JavaScript
 randomPick	/home/justin/eloquentJavascript/7-1.js	/^function randomPick(array) {$/;"	f	language:JavaScript
 randomPick	/home/justin/eloquentJavascript/7-2.js	/^function randomPick(array) {$/;"	f	language:JavaScript
@@ -26,3 +27,4 @@ runRobot	/home/justin/eloquentJavascript/7-1.js	/^const runRobot = function runR
 runRobot	/home/justin/eloquentJavascript/7-2.js	/^const runRobot = function runRobot(state, robot, memory) {$/;"	f	language:JavaScript
 VillageState.random	/home/justin/eloquentJavascript/7-1.js	/^}$/;"	f	language:JavaScript
 VillageState.random	/home/justin/eloquentJavascript/7-2.js	/^}$/;"	f	language:JavaScript
+withBoxUnlocked	/home/justin/eloquentJavascript/8-2.js	/^function withBoxUnlocked(body) {$/;"	f	language:JavaScript
