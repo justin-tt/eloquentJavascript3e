@@ -12,7 +12,9 @@ const box = {
 function withBoxUnlocked(body) {
   let isLocked = box.locked;
   try {
-    box.unlock();
+    if (isLocked) {
+      box.unlock();
+    }
     body();
     box.lock();
   } catch (e) {
