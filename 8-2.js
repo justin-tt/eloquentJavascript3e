@@ -16,7 +16,6 @@ function withBoxUnlocked(body) {
       box.unlock();
     }
     body();
-    box.lock();
   } catch (e) {
     console.log(e);
   } finally {
